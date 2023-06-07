@@ -9,7 +9,14 @@
 
 
 - 📫 Reach me at support@apexbyte.in
-
+#
+![Jokes Card](https://readme-jokes.vercel.app/api)
+<br><details><summary align="left"> </samp></summary><p align ="centre"> Refresh page to load New joke</p></details>
+</div>
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{apexbyte-code}/count.svg" /></p> 
+<br></div>
 
 
 #
