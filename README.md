@@ -55,10 +55,7 @@
 <br>
 </p>
 
-<!---
-<div align="center">
-<h3 align="left">Support:</h3>
-<p><a href="http://apexbyte.in/"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="apexbyte" /></a></p>
+
 </div>
 <br>
 
