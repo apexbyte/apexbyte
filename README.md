@@ -15,8 +15,14 @@
 </div>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{apexbyte-code}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ayushparikh-code}/count.svg" /></p> 
 <br></div>
+
+
+<p align="center">
+<img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
+</p>
+<br>
 
 
 #
