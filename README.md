@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="http://octodex.github.com/images/daftpunktocat-guy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyansh42&label=Profile%20views&color=0e75b6&style=flat" alt="priyansh42" /> </p>
+
 
 
 
@@ -13,8 +13,6 @@
 
 
 #
-<h3 align="left">GitHub Profile Trophies:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apexbyte&theme=darkhub&row=2&column=4" alt="apexbyte" /></a> </p>
 
 
 
